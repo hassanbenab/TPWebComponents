@@ -1,1 +1,2 @@
-<img src="monLecteurVideo/assets/Capture.png" />
+
+![Alt text](monLecteurVideo/assets/Capture.png "")
